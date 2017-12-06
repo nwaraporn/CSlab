@@ -18,6 +18,7 @@ public class GUILab {
      */
     public static void main(String[] args) {
         MainFrame f = new MainFrame();
+        //Narongrit
         f.setVisible(true);
     }
     
